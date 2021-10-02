@@ -3,7 +3,7 @@
 
 
 
-<h1> Tinde app 🔥 </h1>
+<h1> Tinder app 🔥 </h1>
 <p>I build a Tinder app using MERN stack (MongoDB, Express, React, NodeJS).<br>
 The Backfront is hosting on Heroku and the Frontend on Firebase.</p>
 <br>
