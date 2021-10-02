@@ -4,4 +4,4 @@ const instance = axios.create({
     baseURL: 'https://tinder-backend-nice.herokuapp.com/',
 });
 
-export default instance;
+export default instance; 
