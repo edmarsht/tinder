@@ -14,4 +14,4 @@ The Backfront is hosting on Heroku and the Frontend on Firebase.</p>
 <br>
 
 <h1>Home page </h1>
-<img src="tinder/src/homePhone.png" alt="homePhone">
+<img src="tinder/src/homePhone.jpg" alt="homePhone">
